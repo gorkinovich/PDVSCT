@@ -1,0 +1,5 @@
+{
+    "key": "F5",
+    "command": "workbench.action.tasks.runTask",
+    "args": "PlayDate: Make And Run Game"
+}

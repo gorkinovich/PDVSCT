@@ -1,0 +1,6 @@
+name        = Testing Game
+author      = Gorkinovich
+description = This is a testing game to learn play.date programming
+bundleID    = io.github.gorkinovich.testing
+version     = 0.0.1
+buildNumber = 1
